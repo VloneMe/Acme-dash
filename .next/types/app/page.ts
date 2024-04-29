@@ -1,4 +1,4 @@
-// File: /home/vlone/Desktop/Acme-dash/app/page.tsx
+// File: /home/vlone/Desktop/WorkSpace/Acme-dash/app/page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
